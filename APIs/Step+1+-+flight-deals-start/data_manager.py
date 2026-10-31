@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-SHEETY_PRICES_ENDPOINT = "https://api.sheety.co/9ee370376de849eec5aff97feabf494b/flightDeals/prices"
+SHEETY_PRICES_ENDPOINT = "SHEETY_PRICES_ENDPOINT"
 
 class DataManager:
 
